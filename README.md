@@ -8,3 +8,4 @@ both files include 3 classes that all do slightly different thigns
 one class get's constructed via a loop as well
 
 not much more to say 
+actually, I have decided I will dive deeper into different types of classes and explore them more deeply so that'll be added
